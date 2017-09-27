@@ -1,0 +1,12 @@
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030
+}
